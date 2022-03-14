@@ -1,1 +1,1 @@
-# J1F1_7_Met_Python_-_tkinter
+# J1F1_7_Met_Python_and_tkinter
